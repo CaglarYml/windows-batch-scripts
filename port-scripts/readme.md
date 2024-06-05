@@ -1,0 +1,1 @@
+Uncompiled Firewall (UFW) kullanılmıştır.
