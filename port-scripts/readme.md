@@ -1,1 +1,1 @@
-Uncompiled Firewall (UFW) kullanılmıştır.
+Windows Firewall kullanılmıştır.
